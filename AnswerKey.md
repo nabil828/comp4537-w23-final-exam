@@ -19,7 +19,7 @@ Q13. C
 Q14. B   
 Q15. ~~C~~D   
 Q16. C   
-Q17. B   
+Q17. B, or D
 Q18. A, C, or D   
 <!-- JWT -->
 Q19. C   
