@@ -17,7 +17,7 @@ Q12. A
 Q13. C   
 <!-- JSON and Arrays -->
 Q14. B   
-Q15. C   
+Q15. ~~C~~D   
 Q16. C   
 Q17. B   
 Q18. A, C, or D   
