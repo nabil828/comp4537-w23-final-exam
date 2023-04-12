@@ -26,7 +26,7 @@ Q19. C
 Q20. A  
 Q21. B   
 <!-- MongoDB -->
-Q22. B   
+Q22. ~~B~~ A   
 Q23. B   
 Q24. B   
 Q25. C   
@@ -35,7 +35,7 @@ Q27. C
 Q28. D   
 <!-- Mongoose -->
 Q29. C   
-Q30. D   
+Q30. ~~D~~ A   
 Q31. A  
 Q32. C   
 Q33. A  
