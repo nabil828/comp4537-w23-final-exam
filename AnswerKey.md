@@ -8,7 +8,7 @@ Q5. C
 <!-- Express.js -->
 Q6. B   
 Q7. C   
-Q8. A  
+Q8. A or D (partially correct)  
 Q9. B   
 Q10. B   
 <!-- JS -->
